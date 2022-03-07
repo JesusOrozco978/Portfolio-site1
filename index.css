@@ -1,0 +1,21 @@
+Title {
+    color: lightblue;
+    font-size: x-large;
+}
+
+
+.Work {
+    word-spacing: 0px;
+    margin:50px 0px;
+    }
+
+.AboutMe{
+border: 8px, "dotted" rgb(27, 175, 175);
+font-family: "New Times", cursive, sans-serif;
+font-size: 20px;
+color: black;
+text-align: center;
+padding: 5px 50px;
+Margin: 50px 80px 50px 80px;
+}
+
